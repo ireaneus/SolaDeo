@@ -2,7 +2,7 @@
 title: Josiah the Righteous King
 slug: josiah-king
 publishDate: 17 July 2025
-description: "Josiah did right in the sight of the Lord and walked in all the way of his father David. A picture of the life of Jesus Christ the Son of God"
+description: Josiah did right in the sight of the Lord and walked in all the way of his father David. A picture of the life of Jesus Christ the Son of God
 label: devotional
 ---
 
@@ -20,7 +20,7 @@ label: devotional
 ## Table of Contents
 
 | **Josiah** | **Jesus Christ** |
-|-----------|------------------|
+| :--------: | :--------------: |
 | [Came at a time of deep spiritual darkness](#parallel-1-came-at-a-time-of-deep-spiritual-darkness) | [Into the Darkness, Light Came](#into-the-darkness-light-came) |
 | [He did not turn aside](#parallel-2-he-did-not-turn-aside) | **Is** the Word made flesh (John 1:14) |
 | [Tore his clothes in sorrow over sin](#tore-his-clothes-in-sorrow-over-sin) | Bore the weight of sin in His body (1 Peter 2:24) |
@@ -167,15 +167,15 @@ Both Josiah and Jesus were sons raised in dark days by beloved mothers. Both ent
 
 ## 🗂️ Comparison Chart: David, Hezekiah, Josiah, Jesus
 
-| **Category**            | **David**                                               | **Hezekiah**                                                  | **Josiah**                                                       | **Jesus Christ**                                          |
-|-------------------------|----------------------------------------------------------|----------------------------------------------------------------|------------------------------------------------------------------|------------------------------------------------------------|
-| **Time of Reign**       | 1010–970 B.C.                                            | 715–686 B.C.                                                   | 640–609 B.C.                                                     | ~30–33 A.D. (public ministry)                              |
-| **Key Description**     | *“A man after God’s own heart”* (1 Sam 13:14)            | *“No king like him... who trusted in the Lord”* (2 Kgs 18:5)   | *“No king like him... who turned with all his heart, soul, might”* (2 Kgs 23:25) | *“This is My beloved Son... listen to Him”* (Matt 17:5)    |
-| **Spiritual Legacy**    | Worshiper, psalmist, covenant recipient                  | Great reformer, restored temple worship, celebrated national Passover (2 Chr 29–31) | Covenant renewal, rediscovered the Law, celebrated unmatched Passover (2 Kgs 23:21–23) | Fulfiller of the law and prophets, sinless Redeemer        |
-| **Heart Orientation**   | Devoted, relational, repentant                           | Trusted God fully, clung to Him (2 Kgs 18:6)                    | Turned with all his heart, soul, and might (2 Kgs 23:25)         | Perfect obedience and union with the Father (John 8:29)     |
-| **Failures**            | Adultery, murder, census                                 | Pride (Isa 39), showed off treasures to Babylon                | Rash decision to fight Egypt at Megiddo (2 Chr 35:20–24)         | None                                                        |
-| **Relation to the Temple** | Desired to build it, gathered materials (2 Sam 7; 1 Chr 22) | Reopened and purified the temple; reinstituted worship (2 Chr 29–30) | Repaired the temple and read the Book of the Law (2 Kgs 22:3–10) | Declared Himself the true temple (John 2:19–21)             |
-| **God’s Covenant**      | Yes – Davidic covenant (2 Sam 7:12–16)                   | No covenant, but legacy honored                                | No covenant, but led the people in covenant renewal (2 Kgs 23:1–3) | Yes – New Covenant in His blood (Luke 22:20)               |
+| **Category** | **David** | **Hezekiah** | **Josiah** | **Jesus Christ** |
+| :----------: | :-------: | -----------: | :--------: | :--------------: |
+| **Time of Reign** | 1010–970 B.C. | 715–686 B.C. | 640–609 B.C. | ~30–33 A.D. (public ministry) |
+| **Key Description** | *“A man after God’s own heart”* (1 Sam 13:14) | *“No king like him... who trusted in the Lord”* (2 Kgs 18:5) | *“No king like him... who turned with all his heart, soul, might”* (2 Kgs 23:25) | *“This is My beloved Son... listen to Him”* (Matt 17:5) |
+| **Spiritual Legacy** | Worshiper, psalmist, covenant recipient | Great reformer, restored temple worship, celebrated national Passover (2 Chr 29–31) | Covenant renewal, rediscovered the Law, celebrated unmatched Passover (2 Kgs 23:21–23) | Fulfiller of the law and prophets, sinless Redeemer |
+| **Heart Orientation** | Devoted, relational, repentant | Trusted God fully, clung to Him (2 Kgs 18:6) | Turned with all his heart, soul, and might (2 Kgs 23:25) | Perfect obedience and union with the Father (John 8:29) |
+| **Failures** | Adultery, murder, census | Pride (Isa 39), showed off treasures to Babylon | Rash decision to fight Egypt at Megiddo (2 Chr 35:20–24) | None |
+| **Relation to the Temple** | Desired to build it, gathered materials (2 Sam 7; 1 Chr 22) | Reopened and purified the temple; reinstituted worship (2 Chr 29–30) | Repaired the temple and read the Book of the Law (2 Kgs 22:3–10) | Declared Himself the true temple (John 2:19–21) |
+| **God’s Covenant** | Yes – Davidic covenant (2 Sam 7:12–16) | No covenant, but legacy honored | No covenant, but led the people in covenant renewal (2 Kgs 23:1–3) | Yes – New Covenant in His blood (Luke 22:20) |
 
 ---
 

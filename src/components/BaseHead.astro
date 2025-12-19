@@ -4,14 +4,13 @@ import '../styles/fonts.css'
 import '../styles/global.css'
 
 export interface Props {
-  title: string
-  description: string
-  permalink: string
+  title: string;
+  description: string;
+  permalink: string;
 }
+const { title, description, permalink } = Astro.props;
 
-const { title, description, permalink } = Astro.props
-const socialUrl = Astro.site.href + '/SolaDeo/assets/social.png'
----
+--- 
 
 <!-- Google Fonts: EB Garamond -->
 <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;700&display=swap" rel="stylesheet" />
@@ -23,22 +22,8 @@ const socialUrl = Astro.site.href + '/SolaDeo/assets/social.png'
 
 <!-- Primary Meta Tags -->
 <title>{title}</title>
-<meta name="title" content={title} />
 <meta name="description" content={description} />
-
-<!-- Open Graph / Facebook -->
-<meta property="og:type" content="website" />
-<meta property="og:url" content={permalink} />
-<meta property="og:title" content={title} />
-<meta property="og:description" content={description} />
-<meta property="og:image" content={socialUrl} />
-
-<!-- Twitter -->
-<meta property="twitter:card" content="summary_large_image" />
-<meta property="twitter:url" content={permalink} />
-<meta property="twitter:title" content={title} />
-<meta property="twitter:description" content={description} />
-<meta property="twitter:image" content={socialUrl} />
+<link rel="canonical" href={permalink} />
 
 <ClientRouter />
 

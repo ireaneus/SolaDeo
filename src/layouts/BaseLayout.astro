@@ -8,8 +8,58 @@ export interface Props {
   description: string;
   permalink: string;
   current?: string;
+  slug?: string;
 }
-const { title, description, permalink, current } = Astro.props;
+const { title, description, permalink, current, slug } = Astro.props;
+
+// build prev/next using numeric part of slug (e.g. "bible-compass-d1-4" -> 4)
+const files = Object.values(import.meta.glob('/src/data/blog-posts/*.md', { eager: true })) as any[];
+
+// compute base from Vite/Astro and normalize once
+const rawBase = import.meta.env.BASE_URL || '/';
+const baseNormalized = rawBase.replace(/\/+$/, ''); // '' or '/SolaDeo' or ''
+
+const addBase = (p?: string) => {
+  if (!p) return p;
+  if (/^https?:\/\//.test(p)) return p;
+  // if permalink already starts with baseNormalized, return as-is
+  if (baseNormalized && p.startsWith(baseNormalized)) return p;
+  const path = p.replace(/^\/+/, ''); // remove leading slashes
+  return baseNormalized ? `${baseNormalized}/${path}` : `/${path}`;
+};
+
+const posts = files
+  .map((f: any) => {
+    const fm = f.frontmatter ?? {};
+    const s = fm.slug ?? '';
+    const match = s.match(/(\d+)(?!.*\d)/); // last number in slug
+    const num = match ? parseInt(match[1], 10) : Number.POSITIVE_INFINITY;
+    const rawUrl = fm.permalink ?? `/blog/${s}/`;
+    return {
+      title: fm.title,
+      slug: s,
+      url: addBase(rawUrl),
+      num
+    };
+  })
+  .filter(p => p.slug)
+  .sort((a, b) => a.num - b.num);
+
+// debug - remove when fixed
+console.log('post slugs:', posts.map(p => p.slug));
+console.log('layout props:', { slug, permalink });
+
+const normalize = (u?: string) => u ? u.replace(/\/+$/, '') : u;
+const currentIndex = posts.findIndex(p =>
+  p.slug === slug ||
+  p.url === permalink ||
+  normalize(p.url) === normalize(permalink) ||
+  (slug && p.slug && slug.includes(p.slug)) ||
+  (permalink && p.slug && permalink.includes(p.slug))
+);
+
+const prev = currentIndex > 0 ? posts[currentIndex - 1] : null;
+const next = currentIndex >= 0 && currentIndex < posts.length - 1 ? posts[currentIndex + 1] : null;
 ---
 <html lang="en">
 <head>
@@ -18,6 +68,13 @@ const { title, description, permalink, current } = Astro.props;
 <body>
   <div class="layout">
     <Header current={current} />
+
+    {(prev || next) && (
+      <nav class="post-nav" aria-label="Post navigation">
+        {prev && <a class="post-nav__link post-nav__prev" href={prev.url} aria-label={`Previous: ${prev.title}`}>← {prev.title}</a>}
+        {next && <a class="post-nav__link post-nav__next" href={next.url} aria-label={`Next: ${next.title}`}>{next.title} →</a>}
+      </nav>
+    )}
 
     <main>
       <slot />
@@ -47,4 +104,21 @@ const { title, description, permalink, current } = Astro.props;
     display: flex;
     flex-direction: column;
   }
+
+  .post-nav {
+    display: flex;
+    justify-content: space-between;
+    gap: 1rem;
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 0.5rem 2rem;
+    box-sizing: border-box;
+  }
+  .post-nav__link {
+    color: inherit;
+    text-decoration: none;
+    font-weight: 600;
+  }
+  .post-nav__prev { text-align: left; }
+  .post-nav__next { text-align: right; }
 </style>

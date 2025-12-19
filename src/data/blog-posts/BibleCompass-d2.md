@@ -1,6 +1,6 @@
 ---
 title: 🕊️ Bible Compass – Day 2 Following Jesus into the Water
-slug: baptism-compass
+slug: bible-compass-d2
 publishDate: 07 Aug 2025
 description: Day 2 of the SD Crew’s journey—Michael and Samuel learn from Jesus’ baptism and choose to follow His example.
 image: /SolaDeo/images/Reagan-flower.webp

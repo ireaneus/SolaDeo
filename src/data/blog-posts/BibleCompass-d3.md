@@ -1,6 +1,6 @@
 ---
 title: 💖 Bible Compass – Day 3 God’s Great Love Story
-slug: bible-compass-day3
+slug: bible-compass-d3
 publishDate: 08 Aug 2025
 description: Day 3 of the SD Crew’s journey—Abi hears the gospel as God’s love story for the first time, with help from Britt.
 image: /SolaDeo/images/Abi-shepherd.webp

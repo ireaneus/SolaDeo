@@ -1,6 +1,6 @@
 ---
 title: 📖 Bible Compass – Day 1 The Map and the Paths
-slug: bible-compass
+slug: bible-compass-d1
 publishDate: 06 Aug 2025
 description: Day 1 of an exciting devotional journey where the SD Crew follow a map and Bible clues toward hidden treasure.
 image: /SolaDeo/images/Samuel.webp
@@ -22,7 +22,7 @@ label: Devotional
 
 The smell of fresh biscuits filled the kitchen. Grammy hummed as she packed sandwiches, apples, and a bottle of water into a canvas picnic bag. The table was set with mugs of hot cocoa.
 
-Samuel, Michael, Levi, Abi, Reagan, and little Charlie were finishing breakfast when Papa Dave stepped inside with a twinkle in his eye and a rolled-up leather map tied with twine.
+Samuel, Michael, Reagan, and little Charlie were finishing breakfast when Papa Dave stepped inside with a twinkle in his eye and a rolled-up leather map tied with twine.
 
 “Today,” Papa began, “we begin a journey to find hidden treasure. But you can only reach it by following clues from God’s Word.”
 
@@ -63,7 +63,7 @@ Papa nodded. *“Exactly. Let’s go see where God’s Word leads us next.”*
 
 With lanterns held high, they stepped forward into the cool green shade, their lights dancing ahead like little promises.
 
-![Forest kids and lanterns](/SolaDeo/images/Grammy-lanterns.webp)
+![Forest kids and lanterns](/SolaDeo/images/Samuel.webp)
 
 ---
 
@@ -71,7 +71,7 @@ With lanterns held high, they stepped forward into the cool green shade, their l
 
 They walked until the trail split in two. One path, wide and smooth, sloped gently downhill toward a sunlit meadow where the grass swayed in the breeze. The other was a narrow, uneven track that disappeared into the dense woods, its way twisted with roots and shadowed by towering trees.
 
-Levi pointed to the wide path. *“That one’s easier!”* he said, already imagining the soft grass under his feet.
+Samuel pointed to the wide path. *“That one’s easier!”* he said, already imagining the soft grass under his feet.
 
 Michael shook his head and tapped the map. *“But the map says the right path isn’t always easy.”*
 

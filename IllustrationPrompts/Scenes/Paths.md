@@ -27,10 +27,10 @@ The children and Papa stand at a fork where the trail splits in two:
 ## Characters (locked)
 
 * **Papa** — (Papa.md + Papa.svg + Papa-face.svg)
-* **Levi** — (Levi.md + Levi.svg)
 * **Michael** — (Michael.md + Michael.svg)
 * **Reagan** — (Reagan.md + Reagan.svg)
 * **Charlie** — (Charlie.md + Charlie-toy.svg)
+* **Brittany** - (Britt.md + Brittany-disney.svg)
 
 *(Exactly these 5 characters appear. Locks are absolute.)*
 
@@ -39,7 +39,7 @@ The children and Papa stand at a fork where the trail splits in two:
 ## Placement & Actions
 
 * **Papa** stands behind the children, scroll in hand, posture steady.
-* **Levi** is front-left, **pointing toward the wide meadow path**.
+* **Brittany** is front-left, **pointing toward the wide meadow path**.
 * **Michael** stands next to Levi, holding the **map**, **looking toward the narrow path**.
 * **Reagan** is crouched slightly beside **Charlie**, holding his hand, bent to whisper softly to him.
 * **Charlie** holds Reagan’s hand, looking curiously at the fork.
@@ -49,8 +49,8 @@ The children and Papa stand at a fork where the trail splits in two:
 ## Height References (same camera depth)
 
 * Papa (5’7”) tallest, behind the children.
-* Levi (5’2”).
-* Michael (5’0”).
+* Brittany (5’2”).
+* Michael (4'10”).
 * Reagan ≈ ⅔ Michael.
 * Charlie ≈ ⅔ Reagan.
 
@@ -60,18 +60,5 @@ The children and Papa stand at a fork where the trail splits in two:
 
 * **Meadow side (left):** bright golden sunlight beams.
 * **Narrow path side (right):** shaded, cool tones with mist.
-* Subtle symbolism:
-
-  * A faint **cross-shaped sunbeam** falls across the **narrow path**.
-  * The meadow’s light is inviting but fades into the distance.
 
 ---
-
-## Negative Constraints
-
-* Exactly **5 characters** (Papa, Levi, Michael, Reagan, Charlie).
-* No extra people, animals, or props.
-* No hairstyle or clothing changes — locks are absolute.
-* No modern props.
-* No scripture text in the image.
-* No perspective distortion of heights.
