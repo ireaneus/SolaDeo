@@ -3,7 +3,7 @@ title: Josiah the Righteous King
 slug: josiah-king
 publishDate: 17 July 2025
 description: Josiah did right in the sight of the Lord and walked in all the way of his father David. A picture of the life of Jesus Christ the Son of God
-label: devotional
+label: Note
 ---
 
 **Read:** 2 Kings 22–23, 2 Chronicles 34–35
@@ -28,8 +28,6 @@ label: devotional
 | [Led national repentance](#led-national-repentance) | Calls all nations to repentance (Luke 24:47) |
 | [Celebrated the Passover anew](#celebrated-the-passover-anew) | Became the true Passover Lamb (1 Corinthians 5:7) |
 | [Died before judgment came](#died-before-judgment-came) | Died to bear the judgment of sin (Isaiah 53:5) |
-
-![Illustration of lillies of the valley](/LivingWaters/assets/blog/welcome.webp)
 
 ---
 
@@ -101,18 +99,12 @@ The world at Jesus’ birth was not filled with idols, but it was still dark. Th
 
 ---
 
-With that in mind we come to our text this morning:
-
-> 1. *Josiah was eight years old when he became king, and he reigned thirty-one years in Jerusalem; and his mother’s name was Jedidah the daughter of Adaiah of Bozkath.*  
-> 2. *He did right in the sight of the Lord and walked in all the way of his father David, nor did he turn aside to the right or to the left.*
-> —2 Kings 22:1-2  
-
 ## Parallel 2: He Did Not Turn Aside
 
 *“Josiah was eight years old when he became king, and he reigned for thirty-one years in Jerusalem. And his mother’s name was Jedidah, the daughter of Adaiah of Bozkath. He did what was right in the sight of the Lord and walked entirely in the way of his father David, and did not turn aside to the right or to the left.”*  
 —*2 Kings 22:1–2*
 
-Josiah rose to the throne of Judah as a boy—only eight years old—following the violent and corrupt reigns of his father Amon and grandfather Manasseh. In the face of generational wickedness, Josiah was raised by his mother **Jedidah**, whose name in Hebrew means *“Beloved.”* Her quiet presence in the biblical narrative may be subtle, but it's significant. She was likely a stabilizing, faithful influence who helped prepare Josiah to become a king who "did what was right in the sight of the Lord."
+Josiah rose to the throne of Judah as a boy—only eight years old—following the violent and corrupt reigns of his father Amon and grandfather Manasseh. In the face of generational wickedness, Josiah was raised by his mother **Jedidah**, whose name in Hebrew means *“Beloved.”* Her quiet presence in the biblical narrative may be subtle, but it's significant. She was likely a stabilizing, faithful influence who helped prepare Josiah to become a king who *"did what was right in the sight of the Lord."*
 
 Similarly, **Jesus was born of Mary**, a young woman of humble origin. Her name in Hebrew, **Miryam**, is often understood to mean *“beloved,”* *“rebellion,”* or *“bitter,”* reflecting both the sweetness and sorrow of her calling. She too was a righteous mother, visited by the angel Gabriel and entrusted with raising the Son of God.
 
