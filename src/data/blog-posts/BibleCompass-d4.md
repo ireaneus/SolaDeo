@@ -86,3 +86,7 @@ The Crew tightened their grips on their lanterns and on each other’s hands. Wi
 ## The SD Crew Thought for the day
 
 At the cross, Jesus carried our burden and set us free—because His love is stronger than our sin.
+
+---
+
+[Previous Day](/blog/bible-compass-d3) | [Next Day](/blog/bible-compass-d5)

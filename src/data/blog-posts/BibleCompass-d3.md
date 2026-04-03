@@ -84,3 +84,7 @@ Abi nodded slowly, holding the flowers tight. The love of God was no longer just
 ## The SD Crew Thought for the day
 
 God’s story is a love story: He created us, He loves us, He sent Jesus for us—and we can respond by believing and belonging to Him.
+
+---
+
+[Previous Day](/blog/bible-compass-d2) | [Next Day](/blog/bible-compass-d4)

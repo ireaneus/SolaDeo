@@ -97,3 +97,7 @@ The river’s sound faded as they walked deeper into the woods, the lantern ligh
 ## The SD Crew Thought for the day
 
 When you follow Jesus in baptism, you are saying to the world, *“I belong to Him—and I will follow wherever He leads.”*
+
+---
+
+[Previous Day](/blog/bible-compass-d1) | [Next Day](/blog/bible-compass-d3)

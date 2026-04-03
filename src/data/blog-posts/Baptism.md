@@ -76,3 +76,7 @@ Ask Him to help you be still, listen for His voice, and obey Him quickly—just 
 ## Takeaway Thought
 
 **God still speaks today—and the right response is always to listen and obey.**
+
+---
+
+[Next Day](/blog/bible-compass-d1)

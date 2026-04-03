@@ -104,3 +104,7 @@ The path curved sharply into deep shadow. Golden lantern light danced against th
 ## The SD Crew Thought for the day
 
 God’s Word is like a compass and a lantern—it always points to the right path.
+
+---
+
+[Previous Day](/blog/baptism-devotional) | [Next Day](/blog/bible-compass-d2)
