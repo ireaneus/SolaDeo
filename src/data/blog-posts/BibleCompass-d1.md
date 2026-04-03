@@ -107,4 +107,4 @@ God’s Word is like a compass and a lantern—it always points to the right pat
 
 ---
 
-[Previous Day](/blog/baptism-devotional) | [Next Day](/blog/bible-compass-d2)
+[Previous Day](/SolaDeo/blog/baptism-devotional) | [Next Day](/SolaDeo/blog/bible-compass-d2)

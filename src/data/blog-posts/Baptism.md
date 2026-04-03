@@ -79,4 +79,4 @@ Ask Him to help you be still, listen for His voice, and obey Him quickly—just 
 
 ---
 
-[Next Day](/blog/bible-compass-d1)
+[Next Day](/SolaDeo/blog/bible-compass-d1)

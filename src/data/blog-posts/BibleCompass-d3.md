@@ -87,4 +87,4 @@ Godâ€™s story is a love story: He created us, He loves us, He sent Jesus for usâ
 
 ---
 
-[Previous Day](/blog/bible-compass-d2) | [Next Day](/blog/bible-compass-d4)
+[Previous Day](/SolaDeo/blog/bible-compass-d2) | [Next Day](/SolaDeo/blog/bible-compass-d4)

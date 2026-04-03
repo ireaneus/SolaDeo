@@ -89,4 +89,4 @@ At the cross, Jesus carried our burden and set us free—because His love is str
 
 ---
 
-[Previous Day](/blog/bible-compass-d3) | [Next Day](/blog/bible-compass-d5)
+[Previous Day](/SolaDeo/blog/bible-compass-d3) | [Next Day](/SolaDeo/blog/bible-compass-d5)

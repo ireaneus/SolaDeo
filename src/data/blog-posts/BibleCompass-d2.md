@@ -100,4 +100,4 @@ When you follow Jesus in baptism, you are saying to the world, *“I belong to H
 
 ---
 
-[Previous Day](/blog/bible-compass-d1) | [Next Day](/blog/bible-compass-d3)
+[Previous Day](/SolaDeo/blog/bible-compass-d1) | [Next Day](/SolaDeo/blog/bible-compass-d3)

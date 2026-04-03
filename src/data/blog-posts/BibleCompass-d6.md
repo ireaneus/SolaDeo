@@ -131,4 +131,4 @@ Papa smiled.
 
 Because Jesus lives, our story is not over—He has given us new life, a living hope, and a future with Him.
 
-[Previous Day](/blog/bible-compass-d5)
+[Previous Day](/SolaDeo/blog/bible-compass-d5)

@@ -135,4 +135,4 @@ It was about *freedom*.
 
 At the cross, Jesus finished the work completely—our debt is paid, our burden is gone, and in Him we are truly free.
 
-[Previous Day](/blog/bible-compass-d4) | [Next Day](/blog/bible-compass-d6)
+[Previous Day](/SolaDeo/blog/bible-compass-d4) | [Next Day](/SolaDeo/blog/bible-compass-d6)
